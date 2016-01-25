@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSNTPWebApi.Web", "DSNTPWebApi.Web\DSNTPWebApi.Web.csproj", "{FDB93500-EA4E-485A-BA7B-78644C2BD379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSNTPWebApi.Web.Tests", "DSNTPWebApi.Web.Tests\DSNTPWebApi.Web.Tests.csproj", "{D0CCC3C7-F5F3-4DFE-81B6-78E83527F6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB93500-EA4E-485A-BA7B-78644C2BD379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB93500-EA4E-485A-BA7B-78644C2BD379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB93500-EA4E-485A-BA7B-78644C2BD379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB93500-EA4E-485A-BA7B-78644C2BD379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CCC3C7-F5F3-4DFE-81B6-78E83527F6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CCC3C7-F5F3-4DFE-81B6-78E83527F6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CCC3C7-F5F3-4DFE-81B6-78E83527F6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CCC3C7-F5F3-4DFE-81B6-78E83527F6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
